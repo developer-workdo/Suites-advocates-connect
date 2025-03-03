@@ -1,0 +1,1 @@
+[2023-10-26 12:00:54] local.INFO: {"code":1,"message":"Authentication failed. Check profile ID and authentication header.","trace":"PMNT0706.653A079E.0000091A","success":false,"payment_url":null}

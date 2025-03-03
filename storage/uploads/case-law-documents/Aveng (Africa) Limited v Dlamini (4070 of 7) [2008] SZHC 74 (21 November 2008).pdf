@@ -1,0 +1,516 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      
+  Not found (Error 404)
+
+    - AfricanLII</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+      <link rel="alternate"
+            type="application/atom+xml"
+            title="Atom RSS Feed"
+            href="/feeds/all.xml"/>
+      
+      
+      
+      
+      
+      
+        <link rel="icon" type="image/ico" href="/static/images/favicon.5c6f6d0d6392.ico" />
+        <link rel="icon"
+              type="image/png"
+              href="/static/images/favicon-16x16.452f3f42a569.png"/>
+        <link rel="icon"
+              type="image/png"
+              href="/static/images/favicon-32x32.c4ac795ef3b1.png"/>
+        <link rel="icon"
+              type="image/png"
+              href="/static/images/favicon-96x96.7df3ecac129c.png"/>
+        <link rel="icon"
+              type="image/png"
+              href="/static/images/favicon-180x180.1be011e9161a.png"/>
+      
+    
+    
+  <link rel="stylesheet"
+        href="/static/stylesheets/africanlii.03f31492549c.css"
+        type="text/css"/>
+
+    
+  <script id="peachjam-config" type="application/json">{"appName": "AfricanLII", "pdfWorker": "/static/js/pdf.worker-prod.06d2fd1b6741.js", "userHelpLink": "https://liiguide.docs.laws.africa/", "sentry": {"dsn": "https://e33e8e35219e4752b7b54b19e430258a@o389880.ingest.sentry.io/4504672373702656", "environment": "prod"}}</script>
+  
+    <!-- sentry -->
+    <script src="https://browser.sentry-cdn.com/8.19.0/bundle.min.js"
+            integrity="sha384-GMXJOdPusU6buvY19uetB8sepCeSxAnhMOOvoTJ8NVDumzfGeBFgRFuRD6rsz8Np"
+            crossorigin="anonymous"
+            defer></script>
+    
+    
+      <script>
+        var _paq = window._paq = window._paq || [];
+        _paq.push(["setDoNotTrack", true]);
+        _paq.push(["disableCookies"]);
+        _paq.push(['setCustomDimension', 1, 'en']);
+        _paq.push(["trackPageView"]);
+        _paq.push(["enableLinkTracking"]);
+        (function() {
+          var u="https://lawsafrica.matomo.cloud/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '5']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.async=true; g.src='//cdn.matomo.cloud/lawsafrica.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+    
+  
+  <!-- must be last script to load -->
+  <script defer src="/static/js/app-prod.0fc03c6c4c80.js"></script>
+
+  </head>
+  <body class="">
+    
+  
+<header>
+  
+    <div id="skip-links">
+      <a class="bg-white" href="#top">Go to page content</a>
+      <a class="bg-white" href="#main-nav">Go to main menu</a>
+      <a class="bg-white" href="#search">Go to search</a>
+    </div>
+  
+  
+  <div class="top-bar bg-dark p-2">
+    <div class="container d-flex justify-content-between">
+      <a href="https://dataforgovernance.africa"
+         target="_blank"
+         rel="noreferrer">
+        <img class="top-bar-logo d4ga-logo"
+             src="/static/images/cso-agp-logo-horizontal.d546a9b808b7.png"
+             alt="Data for Governance Alliance"/>
+      </a>
+      <a href="https://www.openlawafrica.org/"
+         target="_blank"
+         rel="noreferrer">
+        <img class="top-bar-logo ola-logo"
+             src="/static/images/open-law-africa-inverted.1bde0aa389e8.png"
+             alt="Open Law Africa"/>
+      </a>
+    </div>
+  </div>
+
+  <nav id="main-nav" class="navbar navbar-expand-lg shadow-sm">
+    <div class="container">
+      <a class="navbar-brand" href="/">
+        
+  <img src="/static/images/africanlii-logo.241add47bbe2.svg"
+       alt="africanlii"
+       width="120"/>
+
+      </a>
+      <button class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarText"
+              aria-controls="navbarText"
+              aria-expanded="false"
+              aria-label="Toggle navigation">
+        <i class="bi bi-list" style="font-size: 35px"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          
+  <li class="nav-item dropdown main-nav">
+    <a class="nav-link    dropdown-toggle"
+       href="#"
+       role="button"
+       data-bs-toggle="dropdown"
+       aria-expanded="false">
+      African Legal Information
+    </a>
+    <ul class="dropdown-menu">
+      <li class="dropdown-item">
+        <a class=" nav-link px-0  "
+           href="/legal-instruments/">
+          Legal Instruments
+          <div class="dropdown-summary text-muted">Charters, treaties, conventions and regulations.</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class="nav-link px-0 "
+           href="/judgments/">Judgments
+          <div class="dropdown-summary text-muted">Judgments from regional African courts.</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class="nav-link px-0 "
+           href="/soft-law/">Soft Law
+          <div class="dropdown-summary text-muted">Policies, decisions, recommendations and communiques.</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class=" nav-link px-0  "
+           href="/gazettes">Gazettes
+          <div class="dropdown-summary text-muted">Regional economic community official Gazettes.</div>
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav-item dropdown main-nav">
+    <a class="nav-link   dropdown-toggle"
+       href="#"
+       role="button"
+       data-bs-toggle="dropdown"
+       aria-expanded="false">
+      African Union (AU)
+    </a>
+    <ul class="dropdown-menu">
+      <li class="dropdown-item">
+        <a class=" nav-link px-0  "
+           href="/au/#au-organs">
+          African Union Organs
+          <div class="dropdown-summary text-muted">African Union (AU) Organs</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class="nav-link px-0 "
+           href="/au/#rec">Regional Economic Communities (RECs)
+          <div class="dropdown-summary text-muted">Regional Economic Communities (RECs)</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class=" nav-link px-0  "
+           href="/au/#au-institutions">
+          African Union Institutions
+          <div class="dropdown-summary text-muted">African Union (AU) Institutions</div>
+        </a>
+      </li>
+      <li class="dropdown-item">
+        <a class="nav-link px-0 "
+           href="/au/#member-states">Member states
+          <div class="dropdown-summary text-muted">Member states</div>
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "
+       href="/taxonomy/">
+    Topics</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "
+       href="/doc/">
+      Reports & Guides
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "
+       href="/articles/">
+      Articles
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "
+       href="/about/">
+      About
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://docs.africanlii.org/" target="_blank">Help</a>
+  </li>
+
+        </ul>
+        
+          <form method="get" action="/search/">
+            
+              <div class="input-group">
+                <input type="text"
+                       class="form-control"
+                       placeholder="Search AfricanLII"
+                       aria-label="Search AfricanLII"
+                       aria-describedby="button-addon2"
+                       name="q"/>
+                <button class="btn btn-dark" type="submit" id="button-addon2">
+                  <i class="bi bi-search text-white"></i>
+                </button>
+              </div>
+            
+          </form>
+        
+        
+        
+
+
+
+
+  <form action="/i18n/setlang/"
+        method="post"
+        class="ms-0 ms-lg-3 mt-2 mt-lg-0">
+    <input type="hidden" name="csrfmiddlewaretoken" value="FFevKZhsUqdtVvjzsZeQtCL8mxmoIPouU1u9C8x5OencKoZLh8IDmPrTiV7aqLTc">
+    <input name="next" type="hidden" value=""/>
+    <select class="form-select"
+            name="language"
+            onChange="form.submit();"
+            id="language">
+      
+        <option value="en"
+                 selected>
+          English (en)
+        </option>
+      
+        <option value="fr"
+                >
+          français (fr)
+        </option>
+      
+        <option value="pt"
+                >
+          Português (pt)
+        </option>
+      
+        <option value="sw"
+                >
+          Kiswahili (sw)
+        </option>
+      
+    </select>
+  </form>
+
+
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+    
+  
+  <main id="top">
+    
+  <section class="py-5">
+    <div class="container">
+      <h1 class="mb-4">Not found (Error 404)</h1>
+      <p>
+        We couldn't find the page you're looking for. The link may be outdated or incorrect.
+      </p>
+      <ul>
+        <li>
+          <a href="/">Go to the homepage.</a>
+        </li>
+        <li>
+          <a href="/search/">Try searching for what you're looking for.</a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  </main>
+
+    
+  
+
+<footer class="pt-4 pb-4 mt-5">
+  <div class="container">
+    <a href="/pocketlaw-resources" style="display: none"></a>
+    
+      
+    
+    
+      
+
+  <div class="row align-items-center justify-content-between">
+    <div class="d-flex justify-content-center mb-4 mb-md-0 d-md-block col-md mb-2">
+      <a class="btn btn-primary" href="/about/#contact">Contact us</a>
+    </div>
+    <div class="d-flex justify-content-center mb-4 mb-md-0 d-md-block col-md-auto mb-2">
+      <ul class="list-inline">
+        
+          <li class="list-inline-item">
+            <a href="https://www.facebook.com/africanlii"
+               target="_blank"
+               rel="noreferrer">
+              <i class="h2 facebook-forecolor bi bi-facebook"></i>
+            </a>
+          </li>
+        
+        
+          <li class="list-inline-item">
+            <a href="https://twitter.com/africanlii"
+               target="_blank"
+               rel="noreferrer">
+              <i class="h2 twitter-x-forecolor bi bi-twitter-x"></i>
+            </a>
+          </li>
+        
+        
+        
+      </ul>
+    </div>
+  </div>
+
+
+    
+    <hr/>
+    <div class="row">
+      <div class="col-lg-4">
+        
+  <h5>About AfricanLII</h5>
+  <p>
+    AfricanLII is an open-access research platform for African law jointly operated by the AfricanLII programme of the University of Cape Town and Laws.Africa. AfricanLII publishes the law and policy of the African Union and federates search across all open access African national law available through the <a class="text-primary" href="https://www.openlawafrica.org/" target="_blank" rel="noreferrer">Open Law Africa</a> community of LIIs.
+  </p>
+  <p>
+    The publication of the African Union material is co-sponsored by the European Union and is part of the <a class="text-primary" href="https://dataforgovernance.africa/" target="_blank" rel="noreferrer">Data for Governance Alliance project</a>.
+  </p>
+  <div>
+    <a href="/terms-of-use/">Terms of Use</a>
+  </div>
+  
+
+      </div>
+      <div class="col-lg-4 mb-3">
+        
+  <div class="mb-2">
+    <strong>With support from</strong>
+  </div>
+  <div>
+    <a href="https://www.sigrid-rausing-trust.org/"
+       target="_blank"
+       rel="noreferrer">Sigrid Rausing Trust</a>
+  </div>
+  <div>
+    <a href="https://indigotrust.org.uk/" target="_blank" rel="noreferrer">Indigo Trust</a>
+  </div>
+  <div>
+    <a href="https://www.eeas.europa.eu/" target="_blank" rel="noreferrer">European Union</a>
+  </div>
+  <div>
+    <a href="https://www.openlawafrica.org/"
+       target="_blank"
+       rel="noreferrer">Open Law Africa</a>
+  </div>
+
+      </div>
+      <div class="col-lg-4 mb-3">
+        
+  <div class="mb-2">
+    <strong>Other African Legal Information Institutions</strong>
+  </div>
+  <div>
+    <a href="https://africanlii.org/" target="_blank" rel="noreferrer">AfricanLII</a>
+  </div>
+  <div>
+    <a href="https://ghalii.org/" target="_blank" rel="noreferrer">GhaLII</a>
+  </div>
+  <div>
+    <a href="http://kenyalaw.org/" target="_blank" rel="noreferrer">Kenya Law</a>
+  </div>
+  <div>
+    <a href="https://lawlibrary.org.za/" target="_blank" rel="noreferrer">LawLibrary ZA</a>
+  </div>
+  <div>
+    <a href="https://lesotholii.org/" target="_blank" rel="noreferrer">LesothoLII</a>
+  </div>
+  <div>
+    <a href="http://liberlii.org/" target="_blank" rel="noreferrer">LiberLII</a>
+  </div>
+  <div>
+    <a href="https://malawilii.org/" target="_blank" rel="noreferrer">MalawiLII</a>
+  </div>
+  <div>
+    <a href="https://mauritiuslii.org/" target="_blank" rel="noreferrer">MauritiusLII</a>
+  </div>
+  <div>
+    <a href="https://namiblii.org/" target="_blank" rel="noreferrer">NamibLII</a>
+  </div>
+  <div>
+    <a href="https://nigerialii.org/" target="_blank" rel="noreferrer">NigeriaLII</a>
+  </div>
+  <div>
+    <a href="https://openbylaws.org.za/" target="_blank" rel="noreferrer">OpenbyLaws ZA</a>
+  </div>
+  <div>
+    <a href="https://rwandalii.org/" target="_blank" rel="noreferrer">RwandaLII</a>
+  </div>
+  <div>
+    <a href="https://seylii.org/" target="_blank" rel="noreferrer">SeyLII</a>
+  </div>
+  <div>
+    <a href="https://sierralii.org/" target="_blank" rel="noreferrer">SieraLII</a>
+  </div>
+  <div>
+    <a href="https://eswatinilii.org/" target="_blank" rel="noreferrer">eSwatiniLII</a>
+  </div>
+  <div>
+    <a href="https://tanzlii.org/" target="_blank" rel="noreferrer">TanzLII</a>
+  </div>
+  <div>
+    <a href="https://ulii.org/" target="_blank" rel="noreferrer">UgandaLII</a>
+  </div>
+  <div>
+    <a href="https://zambialii.org/" target="_blank" rel="noreferrer">ZambiaLII</a>
+  </div>
+  <div>
+    <a href="https://zanzibarlii.org/" target="_blank" rel="noreferrer">ZanzibarLII</a>
+  </div>
+  <div>
+    <a href="https://zimlii.org/" target="_blank" rel="noreferrer">ZimLII</a>
+  </div>
+
+      </div>
+    </div>
+    <hr/>
+    
+  <div class="footer-logos">
+    <a class="footer-logos__item"
+       href="https://uct.ac.za/"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/uct-logo.51de62ec96c7.svg"
+           alt="University of Cape Town"/>
+    </a>
+    <a class="footer-logos__item"
+       href="https://laws.africa/"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/laws-africa-logo-horizontal-white.b4083dd55e1a.png"
+           alt="Laws.Africa"/>
+    </a>
+    <a class="footer-logos__item"
+       href="https://www.indigotrust.org.uk/"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/indigo-trust-logo.009593b36a3b.jpg" alt="Indigo Trust"/>
+    </a>
+    <a class="footer-logos__item"
+       href="https://european-union.europa.eu/select-language?destination=/node/1"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/eu_logo.85d26834a773.jpg"
+           alt="European Union"/>
+    </a>
+    <a class="footer-logos__item"
+       href="https://www.sigrid-rausing-trust.org/"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/srt-logo.1e11a89b39e0.jpg" alt="Sigrid Rausing Trust"/>
+    </a>
+    <a class="footer-logos__item"
+       href="https://www.openlawafrica.org/"
+       target="_blank"
+       rel="noreferrer">
+      <img src="/static/images/open-law-africa-inverted.1bde0aa389e8.png"
+           alt="Open Law Africa"/>
+    </a>
+  </div>
+
+  </div>
+</footer>
+
+
+  </body>
+</html>

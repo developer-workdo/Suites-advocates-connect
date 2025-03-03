@@ -1,0 +1,2 @@
+[04-Feb-2025 06:19:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/to5c3x1rydoy/public_html/resources/views/libraries/practice-tool/index.php on line 1
+[04-Feb-2025 06:19:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/to5c3x1rydoy/public_html/resources/views/libraries/practice-tool/index.php on line 1
